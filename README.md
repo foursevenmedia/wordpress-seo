@@ -7,7 +7,7 @@
 [![Deployment](https://github.com/Yoast/wordpress-seo/actions/workflows/deploy.yml/badge.svg)](https://github.com/Yoast/wordpress-seo/actions/workflows/deploy.yml)
 [![Coverage Status](https://coveralls.io/repos/github/Yoast/wordpress-seo/badge.svg?branch=trunk)](https://coveralls.io/github/Yoast/wordpress-seo?branch=trunk)
 
-[![Fourseven Media](https://foursevenmedia.co.uk/)
+https://foursevenmedia.co.uk/
 [![Web Design](https://foursevenmedia.co.uk/website-design-services/))
 [![SEO](https://foursevenmedia.co.uk/seo-specialists-london/)
 
