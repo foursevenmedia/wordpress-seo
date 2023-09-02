@@ -8,8 +8,8 @@
 [![Coverage Status](https://coveralls.io/repos/github/Yoast/wordpress-seo/badge.svg?branch=trunk)](https://coveralls.io/github/Yoast/wordpress-seo?branch=trunk)
 
 https://foursevenmedia.co.uk/
-[![Web Design](https://foursevenmedia.co.uk/website-design-services/))
-[![SEO](https://foursevenmedia.co.uk/seo-specialists-london/)
+https://foursevenmedia.co.uk/website-design-services/
+https://foursevenmedia.co.uk/seo-specialists-london/
 
 ## Welcome to the Yoast SEO GitHub repository
 
